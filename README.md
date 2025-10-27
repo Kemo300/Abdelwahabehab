@@ -1,5 +1,6 @@
 <div align="center" width="100%">
-
+<div align="center"> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/> </div> ```
+  
 <br>
 
 ## 👋 Hi, I'm **Abdelwahab Ehab**  
@@ -40,6 +41,7 @@ Passionate about user interfaces that *feel good* and code that *looks good*.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VS_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
 
+
 ```js
 // Code defines me 💻
 const Abdelwahab = {
@@ -48,3 +50,6 @@ const Abdelwahab = {
   tools: ["Tailwind", "Git", "Figma", "VSCode"],
   motto: "Design. Code. Repeat.",
 };
+```
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kemo300&show_icons=true&theme=tokyonight" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kemo300&layout=compact&theme=tokyonight" width="49%" /> </div>
+
